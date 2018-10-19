@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paso a parametros</string>
+    <string name="act1_titulo">Nombre y apellidos</string>
+    <string name="aceptar_condiciones">Aceptar Condiciones</string>
+    <string name="act2_titulo">Calculadora Simple</string>
+    <string name="comp_titulo">Resultado Operacion</string>
+</resources>
